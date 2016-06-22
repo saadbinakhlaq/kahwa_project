@@ -1,0 +1,21 @@
+PATH
+  remote: ../kahwa
+  specs:
+    kahwa (0.1.0)
+      erubis
+      rack
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erubis (2.7.0)
+    rack (1.6.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kahwa!
+
+BUNDLED WITH
+   1.12.5
